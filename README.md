@@ -1,0 +1,1 @@
+It is an typology that has 8 routers and the all the ip addresses are determine from dhcp server. The main idea of project is, our network and outside network and their configurations. There are 2 web servers you can check it yourself :D.
